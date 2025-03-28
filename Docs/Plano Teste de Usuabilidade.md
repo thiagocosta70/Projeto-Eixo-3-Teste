@@ -1,28 +1,35 @@
 # Plano de Testes de Usabilidade
 
-O teste de usabilidade é uma parte fundamental no processo de desenvolvimento de um aplicativo. Esta etapa consiste nos procedimentos necessários para avaliar a usabilidade do aplicativo, com o objetivo de garantir uma experiência satisfatória para os usuários finais. O teste de usabilidade será conduzido simulando situações reais de uso do aplicativo.
+Os testes de usabilidade são uma etapa essencial no desenvolvimento do aplicativo, pois permitem avaliar sua eficiência e garantir uma experiência satisfatória para os usuários finais. Esta fase consiste em procedimentos estruturados que simulam situações reais de uso para identificar possíveis melhorias na interface e funcionalidades.
 
 ## Objetivos do Teste
 
-- Avaliar a facilidade de uso do aplicativo para os usuários finais.
-- Identificar possíveis problemas de usabilidade que possam afetar a experiência do usuário.
-- Coletar feedback para orientar melhorias e ajustes na interface e funcionalidades do aplicativo.
+- Avaliar a facilidade de uso do aplicativo pelos usuários finais.
+- Identificar eventuais problemas de usabilidade que possam impactar a experiência do usuário.
+- Coletar feedback para orientar ajustes e otimizações na interface e funcionalidades do sistema.
 
 ## Participantes do Teste
 
-Os participantes dos testes serão selecionados de forma a representar adequadamente o público-alvo do sistema. A seleção será baseada em critérios que garantam uma representação diversificada do público-alvo e preferencialmente que nunca tiveram contato com o sistema conduzindo melhores metricas de teste de aprendizado. 
+Os participantes serão selecionados de forma criteriosa para representar adequadamente o público-alvo do aplicativo. A escolha considerará a diversidade de perfis dos usuários e priorizará indivíduos sem contato prévio com o sistema, possibilitando a obtenção de métricas mais precisas sobre a curva de aprendizado.
 
-## Abordagem de Teste
 
-Os testes serão conduzidos em um ambiente controlado, com a presença de um observador da equipe do projeto. Serão utilizados métodos de Observação, Medição, Avaliação e Consolidação dos Dados para coletar e analisar os resultados.
 
-## Requisitos para Realização dos Testes
+## Requisitos para a Realização dos Testes
 
-- Um dispositivo móvel com o sistema Android ou iOS.
-- Conectividade à internet para acesso ao aplicativo.
+- Um dispositivo móvel compatível com sistemas Android ou iOS.
+- Conexão estável com a internet para acesso ao aplicativo.
 
 ## Roteiro de Testes
-O roteiro de testes inclui várias tarefas que os participantes serão solicitados a realizar. Cada tarefa será avaliada com base em vários critérios, incluindo a conclusão bem-sucedida da tarefa, o número e o tipo de erros cometidos e o tempo necessário para concluir a tarefa.
+
+O roteiro de testes abrangerá um conjunto de tarefas específicas que os participantes deverão executar. Cada tarefa será analisada com base nos seguintes critérios:
+
+- **Taxa de conclusão**: Percentual de usuários que conseguiram concluir a tarefa com sucesso.
+- **Erros cometidos**: Quantidade e tipos de erros observados durante a execução.
+- **Tempo de execução**: Duração necessária para concluir cada tarefa.
+
+Os resultados obtidos serão utilizados para aprimorar a experiência do usuário e garantir um aplicativo mais intuitivo e acessível.
+
+
 
 | Nº  | Plano de Teste | Descrição | Passos | Objetivo do Teste | Critério de Êxito |
 |----|-------------------------|------------------------------------------|-----------------------------------------------------------------|------------------------------------|-----------------------------------------------|
